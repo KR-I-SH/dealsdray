@@ -64,32 +64,41 @@ This project is a simple Employee Management System built using the MERN stack (
 1. Login Page:
    - Explanation: This page is where users enter their credentials to access the system.
    - Screenshot: Include a screenshot showing the login form with email and password fields.
- 
+ ![image](https://github.com/user-attachments/assets/3936b5b7-9d79-484b-80bd-400e46fcacc0)
+
 
 2. Home Page:
    - Explanation: After login, the home page displays a welcome message and navigation links to the Employee List, Create Employee, and Logout.
    - Screenshot: Show the home page with the navigation menu and welcome message.
- 
+ ![image](https://github.com/user-attachments/assets/9862f819-a86e-4d79-8e01-de95e30c378a)
+
 
 3. Employee List:
    - Explanation: Displays all employee records in a table format, including options for searching, sorting, editing, and deleting.
    - Screenshot: Highlight the search bar, pagination, and action buttons.
- 
- 
+ ![image](https://github.com/user-attachments/assets/c55e6d4a-c744-47c9-8ceb-461800e3d677)
+ ![image](https://github.com/user-attachments/assets/a47a062d-8d53-43a7-b771-44aaa547f3ba)
+
+
 
 4. Create Employee Page:
    - Explanation: This page allows users to add a new employee by filling in their details.
    - Screenshot: Show the form fields, including the name, email, mobile, designation, gender, course selection, and image upload.
- 
+ ![image](https://github.com/user-attachments/assets/31cecafa-20d5-4e1e-99b5-18d96ca3a811)
+
 
 5. Edit Employee Page:
    - Explanation: Users can update an existing employee's information, with the form pre-filled with current data.
    - Screenshot: Display the form with pre-filled data and the update button.
+![image](https://github.com/user-attachments/assets/c1da492b-6637-43c2-977b-5231c757f583)
+
  
 6. Delete Confirmation:
    - Explanation: A pop-up or modal that asks for confirmation before deleting an employee.
    - Screenshot: Include the confirmation dialog with options to confirm or cancel the deletion.
- 
+ ![image](https://github.com/user-attachments/assets/2aebbd0e-6408-4ee1-882c-3aa7f3f08740)
+ ![image](https://github.com/user-attachments/assets/4210c617-a81b-412c-94ea-525c74fc5907)
+
  
 
  API Endpoints
