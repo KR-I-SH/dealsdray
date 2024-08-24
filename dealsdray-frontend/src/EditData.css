@@ -1,0 +1,57 @@
+.edit-data-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.edit-data-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.edit-data-form div {
+    margin-bottom: 15px;
+}
+
+.edit-data-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.edit-data-form input[type="text"],
+.edit-data-form input[type="password"],
+.edit-data-form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.edit-data-form input[type="file"] {
+    padding: 0;
+}
+
+.edit-data-form button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.edit-data-form button:hover {
+    background-color: #218838;
+}
+
+.error-message {
+    color: red;
+    margin-top: 5px;
+}

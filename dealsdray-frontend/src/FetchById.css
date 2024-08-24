@@ -1,0 +1,27 @@
+.fetch-details-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.fetch-detail {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.fetch-detail label {
+    font-weight: bold;
+    width: 150px;
+}
+
+.fetch-detail span {
+    flex-grow: 1;
+    padding-left: 10px;
+}
+
+.fetch-detail img {
+    border-radius: 4px;
+}

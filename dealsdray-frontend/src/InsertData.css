@@ -1,0 +1,37 @@
+/* InsertData.css */
+.insert-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.insert-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.insert-form label {
+    font-weight: bold;
+}
+
+.insert-form input, 
+.insert-form select, 
+.insert-form textarea {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.insert-form button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.insert-form button:hover {
+    background-color: #45a049;
+}
